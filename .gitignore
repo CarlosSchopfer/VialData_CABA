@@ -1,0 +1,9 @@
+data/
+data/raw/
+data/processed/
+data/final/
+venv/
+.env
+notebooks/.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
